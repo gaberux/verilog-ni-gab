@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-A VGA-rendered dig-and-collect maze game where you tunnel through dirt to grab diamonds while dodging moving hazards, unlocking a level-up exit that gets harder (faster hazards, more gems, less time) across three levels.
+A VGA-rendered dig-and-collect maze game where you tunnel through dirt to grab diamonds while dodging moving hazards, reaching the exit 
 
 ## How to test
 
-Move with the gamepad or ui_in[3:0], collect all diamonds before time runs out, avoid hazards, and reach the green exit to advance levels.
+Move with the gamepad collect all diamonds before time runs out, avoid hazards, and reach the green exit.
 
 ## External hardware
 
-VGA Pmod (required) and an optional Gamepad Pmod (buttons also work via ui_in[3:0] without it).
+VGA Pmod 
