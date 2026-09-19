@@ -1,4 +1,3 @@
-
 # Tiny Tapeout project information
 project:
   title:        "Diamond Crash"      # Project title
@@ -16,9 +15,8 @@ project:
   
   # List your project's source files here. Source files must be in ./src and you must list each source file separately, one per line:
   source_files:
-  tt_um_vga_example.v
-  hvsync_generator.v
-  gamepad_pmod.v
+    - tt_um_vga_example.v
+    - hvsync_generator.v
 
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
