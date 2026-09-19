@@ -13,7 +13,7 @@ A VGA-rendered dig-and-collect maze game where you tunnel through dirt to grab d
 
 ## How to test
 
-Move with the gamepad collect all diamonds before time runs out, avoid hazards, and reach the green exit.
+Move with the keyboard arrows collect all diamonds before time runs out, avoid hazards, and reach the green exit.
 
 ## External hardware
 
